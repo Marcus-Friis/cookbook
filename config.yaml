@@ -1,10 +1,6 @@
 # Text shown on the index page.
-index_title: I Can't Believe It's Not a Cookbook!
-index_description:
-  Po-tay-toes. Boil 'em, mash 'em, stick 'em in a stew. Lovely big golden chips
-  with a nice piece of fried fish. Even you couldn't say no to that. My mom
-  always said life was like a box of chocolates. *You never know what you're
-  gonna get.*
+index_title: Mors kogebog
+index_description: Alle opskrifter mor har i sin fine flotte røde mappe kan findes på denne flotte hjemmeside*
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
@@ -26,8 +22,8 @@ strings:
   sour_label: Sour
   bitter_label: Bitter
   umami_label: Umami
-  footer_text: Enjoy!
-  updated_on: Updated on
+  footer_text: Velbekomme!
+  updated_on: Sidst opdateret
   edit: Edit
 
 # If you maintain your recipes in a GitHub repository, you can specify its URL
@@ -35,7 +31,7 @@ strings:
 # page, referring you to the corresponding Markdown file on GitHub. If you've
 # got some sort of continous integration (like the included GitHub Action) set
 # up, this effectively turns your site into a wiki.
-github_url: https://github.com/doersino/nyum
+github_url: https://github.com/Marcus-Friis/cookbook
 
 # Remote for deployment – the value of this setting will be passed to rsync as a
 # destination, so you probably want it to look like USER@SERVER:PATH. Make sure
